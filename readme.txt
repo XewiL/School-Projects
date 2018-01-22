@@ -11,11 +11,14 @@ Programming Techniques / Ohjelmoinnin tekniikat, 5 credits
 
 
 Other programming related courses:
-- Introduction to Software Production, 5 credits
+- Introduction to Software Production / Johdatus ohjelmistotuotantoon, 5 credits
 
 
 Ongoing courses:
-- Software Engineering Methodologies  (Game project with Unity / C Sharp)
-- Web System Design (HTML5, CSS, JavaScript, Django)
-- Introduction to Databases
-- Concurrency
+- Software Engineering Methodologies / Ohjelmistotuotannon menetelmät, 5 credits
+    Game project with Unity / C Sharp
+- Web System Design / web-ohjelmointi, 5 credits
+    HTML5, CSS, JavaScript, Django
+- Data Structures and Algorithms / Tietorakenteet ja algoritmit, 5 credits
+- Introduction to Databases / Johdatus tietorakenteisiin, 5 credits
+- Concurrency / Rinnakkaisuus, 5 credits
