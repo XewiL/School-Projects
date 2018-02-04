@@ -11,7 +11,9 @@ Programming Techniques / Ohjelmoinnin tekniikat, 5 credits
 
 
 Other programming related courses:
-- Introduction to Software Production / Johdatus ohjelmistotuotantoon, 5 credits
+- Introduction to Software Engineering / Johdatus ohjelmistotuotantoon, 5 credits
+- Basic Course on User Experience / Käyttäjäkokemuksen perusteet, 3 credits
+- User Interface Design / Käyttöliittymäsuunnittelu, 5 credits
 
 
 Ongoing courses:
