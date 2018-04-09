@@ -20,7 +20,7 @@ Programming Techniques / Ohjelmoinnin tekniikat, 5 credits
 - Software Engineering Methodologies / Ohjelmistotuotannon menetelmät, 5 credits
   - Game project with Unity / C#
 - Web System Design / web-ohjelmointi, 5 credits
-  - HTML5, CSS, JavaScript, Django
+  - HTML5, CSS, JavaScript, Django, Python
 - Data Structures and Algorithms / Tietorakenteet ja algoritmit, 5 credits
   - Tree bigger projects with C++ (std-containers and algorithms)
 - Introduction to Databases / Johdatus tietokantoihin, 5 credits
