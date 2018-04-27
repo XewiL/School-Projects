@@ -3,7 +3,7 @@
 Here are my all school projects what I've done different courses at Tampere University of Technology.
 
 Basic Course on Programming / Ohjelmoinnin peruskurssi, 5 credits
-- Ten small weekly excercises, C++
+- 10 small weekly excercises, C++
 - Four bigger projects, C++ and Qt Creator
 
 Programming Techniques / Ohjelmoinnin tekniikat, 5 credits
@@ -22,7 +22,7 @@ Programming Techniques / Ohjelmoinnin tekniikat, 5 credits
 - Web System Design / web-ohjelmointi, 5 credits
   - HTML5, CSS, JavaScript, jQuery, Django, Python
 - Data Structures and Algorithms / Tietorakenteet ja algoritmit, 5 credits
-  - Tree bigger projects with C++ (std-containers and algorithms)
+  - Three bigger projects with C++ (STL-containers and algorithms)
 - Introduction to Databases / Johdatus tietokantoihin, 5 credits
   - SQL
 - Concurrency / Rinnakkaisuus, 5 credits
