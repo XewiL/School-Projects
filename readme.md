@@ -32,8 +32,22 @@ Programming Techniques / Ohjelmoinnin tekniikat, 5 credits
 ## Ongoing courses (Spring 2018):
 - Software Engineering Methodologies / Ohjelmistotuotannon menetelmät, 5 credits
   - Game project with Unity / C#
+  - Topics:
+    - SW development process and Life-cycle models
+    - Agile methods: Scrum, Lean, Kanban & XP
+    - Project planning, Requirement management, Effot estimations
+    - Role of feedback in SWE
+    - Continuous Integration, Delivery & Deployment, DevOps
+    - Version & confiquration management, GIT workflows
+    - Architecture in SWE
+    - SW maintenance & evolution
+    - SW Quality, inspection, review, testing
+    - SW business & Licenses, SaaS, IPR
+    
 - Web System Design / web-ohjelmointi, 5 credits
   - HTML5, CSS, JavaScript, jQuery, Django, Python
+  - **BIG** project work (Online game store for JavaScript games)
+  
 - Data Structures and Algorithms / Tietorakenteet ja algoritmit, 5 credits
   - Three bigger projects with C++ (STL-containers and algorithms)
   - Topics:
