@@ -8,6 +8,19 @@ Basic Course on Programming / Ohjelmoinnin peruskurssi, 5 credits
 
 Programming Techniques / Ohjelmoinnin tekniikat, 5 credits
 - One big project with another student, C++ and Qt Creator
+- Topics:
+  - Basic programming tools: Division of labour and team work
+  - Interfaces: design-by-contract and coding practices
+  - Errors and exception handling
+  - (Unit) testing
+  - Debugging and Event-Driven Programming
+  - Modularity, abstract base classes, and memory management (smart pointers)
+  - Inheritance, inheritance hierarchy and visibility specifiers
+  - Inheritance, dynamic binding and virtual functions
+  - Dynamic binding and virtual functions and abstract base classes
+  - Exception safety and exception guarantees
+  - Many ways to use const
+  - Copying, assigning, and moving objects
 
 
 ## Other programming related courses:
