@@ -39,11 +39,13 @@ Programming Techniques / Ohjelmoinnin tekniikat, 5 credits
   - Topics:
     - Terminology, notations, pseudocode. Decrease and conquer design principles.
     - From pseudocode to real implementation. Insertion sort. Recursion. Quicksort. Merge sort.
-    - Asymptotic notation. Finding out and expressing the performance of algorithms. Comparing the performance of algorithms
+    - Asymptotic notation.
+    - Finding out and expressing the performance of algorithms. Comparing the performance of algorithms
     - Theta, Big-O and Omega notations and calculating them for an algorithm.
     - Randomization. Finding the n'th ordered element.
     - Using and selecting data structures and algorithms provided by the programming language (C++) or libraries.
-    - Associative data structures. C++ data structures and indirection (iterators, pointers, indices yms.). Invalidation of iterators, pointers, and indices.
+    - Associative data structures.
+    - C++ data structures and indirection (iterators, pointers, indices yms.). Invalidation of iterators, pointers, and indices.
     - Discussion about hw1 programming exercise. STL algorithm library. Trees and binary trees.
     - Heap. Transform and conquer. Heap sort. Priority queue. Other sorting algorithms.
     - Hash tables, Binary search trees.
