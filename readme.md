@@ -45,7 +45,8 @@ Programming Techniques / Ohjelmoinnin tekniikat, 5 credits
     - Randomization. Finding the n'th ordered element.
     - Using and selecting data structures and algorithms provided by the programming language (C++) or libraries.
     - Associative data structures.
-    - C++ data structures and indirection (iterators, pointers, indices yms.). Invalidation of iterators, pointers, and indices.
+    - C++ data structures and indirection (iterators, pointers, indices yms.).
+    - Invalidation of iterators, pointers, and indices.
     - Discussion about hw1 programming exercise. STL algorithm library. Trees and binary trees.
     - Heap. Transform and conquer. Heap sort. Priority queue. Other sorting algorithms.
     - Hash tables, Binary search trees.
