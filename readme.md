@@ -2,6 +2,10 @@
 
 Here are my all school projects what I've done different courses at Tampere University of Technology.
 
+![Diagram of Courses](https://github.com/XewiL/School-Projects/blob/master/persasive_systems.png)
+(Red marked aren't included in my studies).
+
+
 #### Basic Course on Programming / Ohjelmoinnin peruskurssi, 5 credits
 - 10 small weekly excercises, C++
 - Four bigger projects, C++ and Qt Creator
@@ -36,7 +40,7 @@ Here are my all school projects what I've done different courses at Tampere Univ
   - SW Quality, inspection, review, testing
   - SW business & Licenses, SaaS, IPR
 
-####  Web System Design / web-ohjelmointi, 5 credits
+#### Web System Design / web-ohjelmointi, 5 credits
 - HTML5, CSS, JavaScript, jQuery, Django, Python
 - **BIG** project work (Online game store for JavaScript games)
 
