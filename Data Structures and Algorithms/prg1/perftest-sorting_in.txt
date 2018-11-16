@@ -1,0 +1,6 @@
+# Run some performance tests with compulsory features
+# 
+# Just test sorting and related operations, no extra additions between them
+perftest alphalist;distlist;mindist;maxdist;nth_distance 5 100 10;30;100;300;1000;3000;10000;30000;100000;300000;1000000
+# Both sorting operations, plus additions between sorting
+perftest alphalist;distlist;mindist;maxdist;nth_distance;random_add 5 100 10;30;100;300;1000;3000;10000;30000;100000;300000;1000000

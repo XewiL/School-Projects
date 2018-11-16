@@ -1,0 +1,47 @@
+> clear
+Cleared all towns
+> size
+Number of towns: 0
+> read "example-data.txt"
+** Commands from 'example-data.txt'
+> # Adding towns
+> add_town Helsinki (3,0)
+Helsinki: pos=(3,0)
+> add_town Tampere (2,2)
+Tampere: pos=(2,2)
+> add_town Oulu (3,5)
+Oulu: pos=(3,5)
+> add_town Kuopio (6,3)
+Kuopio: pos=(6,3)
+> 
+** End of commands from 'example-data.txt'
+> size 
+Number of towns: 4
+> alphalist 
+1. Helsinki: pos=(3,0)
+2. Kuopio: pos=(6,3)
+3. Oulu: pos=(3,5)
+4. Tampere: pos=(2,2)
+> mindist 
+Helsinki: pos=(3,0)
+> maxdist 
+Kuopio: pos=(6,3)
+> distlist 
+1. Helsinki: pos=(3,0)
+2. Tampere: pos=(2,2)
+3. Oulu: pos=(3,5)
+4. Kuopio: pos=(6,3)
+> nth_distance 2
+Tampere: pos=(2,2)
+> find Kuopio
+Kuopio: pos=(6,3)
+> towns_from (4,4)
+1. Oulu: pos=(3,5)
+2. Kuopio: pos=(6,3)
+3. Tampere: pos=(2,2)
+4. Helsinki: pos=(3,0)
+> remove Kuopio
+Kuopio removed.
+> size 
+Number of towns: 3
+> 

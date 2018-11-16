@@ -1,0 +1,27 @@
+# VERY simple basic test of all commands
+# Clear the data structures and check that size is zero
+clear
+size
+# Test compulsory commands with empty data
+all_towns
+alphalist
+distlist
+mindist
+maxdist
+nth_distance 1
+find Notown
+# Add one town and test commands
+add_town Tampere (3,4)
+size
+all_towns
+alphalist
+distlist
+mindist
+maxdist
+nth_distance 1
+find Tampere
+# Test non-compulsory commands
+towns_from (2,2)
+remove Tampere
+size
+quit

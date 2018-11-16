@@ -1,0 +1,46 @@
+> # VERY simple basic test of all commands
+> # Clear the data structures and check that size is zero
+> clear
+Cleared all towns
+> size
+Number of towns: 0
+> # Test compulsory commands with empty data
+> all_towns
+No towns!
+> alphalist
+> distlist
+> mindist
+-- unknown --
+> maxdist
+-- unknown --
+> nth_distance 1
+-- unknown --
+> find Notown
+-- unknown --
+> # Add one town and test commands
+> add_town Tampere (3,4)
+Tampere: pos=(3,4)
+> size
+Number of towns: 1
+> all_towns
+Tampere: pos=(3,4)
+> alphalist
+Tampere: pos=(3,4)
+> distlist
+Tampere: pos=(3,4)
+> mindist
+Tampere: pos=(3,4)
+> maxdist
+Tampere: pos=(3,4)
+> nth_distance 1
+Tampere: pos=(3,4)
+> find Tampere
+Tampere: pos=(3,4)
+> # Test non-compulsory commands
+> towns_from (2,2)
+Tampere: pos=(3,4)
+> remove Tampere
+Tampere removed.
+> size
+Number of towns: 0
+> quit

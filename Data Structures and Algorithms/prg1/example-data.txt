@@ -1,0 +1,5 @@
+# Adding towns
+add_town Helsinki (3,0)
+add_town Tampere (2,2)
+add_town Oulu (3,5)
+add_town Kuopio (6,3)

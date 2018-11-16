@@ -1,0 +1,13 @@
+# Read in a bigger set of towns
+clear
+read "towns-data.txt"
+# Do tests
+size
+alphalist 
+mindist 
+maxdist 
+distlist
+nth_distance 3
+find Tampere
+find Turku
+quit

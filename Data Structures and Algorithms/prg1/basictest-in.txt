@@ -1,0 +1,26 @@
+clear
+size
+# Read in example data
+read "example-data.txt"
+# Do some basic tests
+size
+alphalist 
+mindist 
+maxdist 
+distlist
+nth_distance 3
+find Tampere
+find Turku
+# Add towns and try again
+add_town Turku (0,0)
+add_town Rovaniemi (5,7)
+size
+alphalist 
+mindist 
+maxdist 
+distlist
+nth_distance 3
+find Tampere
+find Turku
+clear
+quit

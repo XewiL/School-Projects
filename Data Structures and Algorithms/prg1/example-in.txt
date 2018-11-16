@@ -1,0 +1,13 @@
+clear
+size
+read "example-data.txt"
+size 
+alphalist 
+mindist 
+maxdist 
+distlist 
+nth_distance 2
+find Kuopio
+towns_from (4,4)
+remove Kuopio
+size 
