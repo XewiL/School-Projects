@@ -1,3 +1,5 @@
+# Assingment
+
 In this project we'll create a C++ class that allows us to manipulate dates. The format of the date is so called Gregorian date which in practical terms mean the dates used in European countries:
 
 The class you will implement is able to store and manipulate Gregorian format dates. The public interface should offer at least methods for:
