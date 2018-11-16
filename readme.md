@@ -22,7 +22,7 @@ Here are my all school projects what I've done different courses at Tampere Univ
   - Many ways to use const
   - Copying, assigning, and moving objects
 
-####  Software Engineering Methodologies / Ohjelmistotuotannon menetelmät, 5 credits
+#### Software Engineering Methodologies / Ohjelmistotuotannon menetelmät, 5 credits
 - Game project with Unity / C#
 - Content of course:
   - SW development process and Life-cycle models
