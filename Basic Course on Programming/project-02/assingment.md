@@ -46,9 +46,8 @@ Even if the list above has exactly the same two products listed for every single
 
 The product selection information shown above can be represented using csv-file like this:
 
-      store_chain;store_location;product_name;product_price
+    store_chain;store_location;product_name;product_price
   
-
 The example used above would look like this when stored in a csv-file:
 
     S-Market;Hervantakeskus;milk;1.05
@@ -72,7 +71,6 @@ The example used above would look like this when stored in a csv-file:
     K-Citymarket;Lielahti;peanut_butter;3.00
     K-Citymarket;Turtola;milk;0.95
   
-
 Every legal line has four semicolon separated fields. None of the fields are allowed to be empty or consist only of whitespace characters. The last field must represent a real number (double).
 
 To keep things simple let's also agree that none of the fields can contain semicolon (;) or whitespace characters. In other words on an error free line there is always three semicolons, no whitespace characters, and none of the fields are empty.
@@ -86,7 +84,7 @@ If the same product is given to the same store more than once, the last one of t
     Prisma;Koivistonkyla;peanut_butter;2.90
     S-Market;Hervantakeskus;peanut_butter;3.25
     S-Market;Pirkkala;milk;2.00
-    S-Market;Hervantakeskus;milk;1.05 
+    S-Market;Hervantakeskus;milk;1.05
 
 The price of the milk in S-Market Hervantakeskus would end up being 1.05.
 

@@ -1,4 +1,4 @@
- In this project you will implement a simple prototype for a program that can be used to handle a list of things/jobs/chores/etc that have some sort of level of urgency attached to them. For example one might have the following chores to do:
+In this project you will implement a simple prototype for a program that can be used to handle a list of things/jobs/chores/etc that have some sort of level of urgency attached to them. For example one might have the following chores to do:
 Urgency 	Chores
 Extremely urgent 	(priority level 3) 	do tomorrow's homework,
 empty the stinking garbage bin,
@@ -15,12 +15,9 @@ The idea is that the chores in the higher priority levels must be finished befor
 
 The number of priority levels might vary. In a list of houseworks like above three levels is probably enough. But there are situations in which more or less levels would work better. This hints to the directions that the priority list implemented in this project should probably allow the user to specify how many separate levels of priorities the list has.
 
-Your job in this project is to implement
-
+Your job in this project is to implement:
     a data structure that allows an easy manipulation of the priority lists as explained above and
-
     a simple command line (textual) user interface for testing the data structure in question.
-
 
 The special requirements for this project
 
