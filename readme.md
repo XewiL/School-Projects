@@ -8,7 +8,7 @@ Here are my all school projects what I've done different courses at Tampere Univ
 
 #### Programming Techniques / Ohjelmoinnin tekniikat, 5 credits
 - One big project with another student, C++ and Qt Creator
-- Topics:
+- Content of course:
   - Basic programming tools: Division of labour and team work
   - Interfaces: design-by-contract and coding practices
   - Errors and exception handling
@@ -24,7 +24,7 @@ Here are my all school projects what I've done different courses at Tampere Univ
 
 ####  Software Engineering Methodologies / Ohjelmistotuotannon menetelmät, 5 credits
 - Game project with Unity / C#
-- Topics:
+- Content of course:
   - SW development process and Life-cycle models
   - Agile methods: Scrum, Lean, Kanban & XP
   - Project planning, Requirement management, Effot estimations
@@ -42,7 +42,7 @@ Here are my all school projects what I've done different courses at Tampere Univ
 
 #### Data Structures and Algorithms / Tietorakenteet ja algoritmit, 5 credits
 - Three bigger projects with C++ (STL-containers and algorithms)
-- Topics:
+- Content of course:
   - Terminology, notations, pseudocode. Decrease and conquer design principles
   - From pseudocode to real implementation. Insertion sort. Recursion. Quicksort. Merge sort
   - Asymptotic notation
@@ -76,6 +76,7 @@ Here are my all school projects what I've done different courses at Tampere Univ
 - Introduction to Software Engineering / Johdatus ohjelmistotuotantoon, 5 credits
 - Basic Course on User Experience / Käyttäjäkokemuksen perusteet, 3 credits
 - User Interface Design / Käyttöliittymäsuunnittelu, 5 credits
+    - Prototype of our project (https://projects.invisionapp.com/share/KPEWA7843#/screens/268631672)
 
 
 ## Ongoing courses (Fall 2019):
