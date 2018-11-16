@@ -1,3 +1,5 @@
+ # Assingment
+ 
  Let's consider the following kind of information relating to the products and their prices in the different stores of the different grocery store chains:
 
     S-Market
